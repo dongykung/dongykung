@@ -20,8 +20,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongykung)](https://github.com/dongykung/github-readme-stats)
 
-<br><br><br>
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/hyunjunkimAbc/capstone_design)
 <!--
 **dongykung/dongykung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
