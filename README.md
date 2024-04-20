@@ -2,12 +2,26 @@
 
 <br><br><br>
 
-<p align="center">
-   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<h4 align="center">✨ Once I've Used ✨</h4>
+<div align="center">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />&nbsp<br>
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp<br>
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">&nbsp
 
-</p>
+<br><br><br>
+<h4 align="center">💻 Study log 💻</h4>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongykung)](https://github.com/dongykung/github-readme-stats)
 
+<br><br><br>
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/hyunjunkimAbc/capstone_design)
 <!--
 **dongykung/dongykung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
