@@ -1,4 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=300&section=header&text=DongKyung_Kim&fontSize=90)
+
+<br><br><br>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+</p>
+
 
 <!--
 **dongykung/dongykung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
