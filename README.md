@@ -1,5 +1,5 @@
 
-<h4 align="center">✨ Once I've Used ✨</h4>
+<h4 align="center">✨ Skills ✨</h4>
 <div align="center">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp
