@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=300&section=header&text=DongKyung_Kim&fontSize=90)
-
-<br><br><br>
 
 <h4 align="center">✨ Once I've Used ✨</h4>
 <div align="center">
@@ -9,11 +6,8 @@
 <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />&nbsp<br>
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp<br>
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">&nbsp
 
 <br><br><br>
 <h4 align="center">💻 Study log 💻</h4>
