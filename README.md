@@ -1,7 +1,27 @@
-# 김동경
-**코드 작성 시 가독성, 유지보수성, 확장성을 고려하며 작성하려 노력합니다.** <br>
-**코드 리뷰를 통해 다양한 의견을 들으려 노력하고 이 과정에서 배움의 기회를 찾습니다.**
----
-## Blog
-[노션 - 기술 블로그](https://wave-plaster-818.notion.site/1cfdc15c337c8050b2f2c04bc7afd9cb?v=1cfdc15c337c8029b11f000c831d3997) <br>
-[Velog](https://velog.io/@dkdk_0422/posts)
+## Education
+한성대학교 (2018.02 ~ 2024.02)
+
+<br>
+<br>
+
+## Activity
+- 네이버 부스트 캠프 Android10기 (2025.08 ~ 2026.01)
+- IT 동아리 DDD(Dynamic Developer Designer) Android 12기 (2025.05 ~ 2025.08)
+- 멋쟁이 사자처럼 IOS 6기(2024.05 ~ 2024.11)
+
+<br>
+<br>
+
+## Tech
+| Category | Technologies |
+|----------|-------------|
+| **Architecture** | MVI, MVVM, Clean Architecture |
+| **UI** | Jetpack Compose, XML View |
+| **DI** | Hilt, Koin |
+| **Network** | Retrofit, OkHttp, Ktor |
+| **Local** | Room, DataStore |
+| **Async** | Coroutine, Flow |
+| **Jetpack** | Paging3, Navigation2, Navigation3 |
+
+
+
